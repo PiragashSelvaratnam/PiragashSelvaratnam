@@ -148,7 +148,6 @@
 
 - 💡 Love building side projects and experimenting with new tech
 - 🎮 Enjoy gaming when not coding
-- ☕ Coffee is my fuel ⚡
 - 🌍 Always eager to learn from different perspectives
 
 ---
