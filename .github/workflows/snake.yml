@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+    schedule:
+        # Runs every 6 hours
+        - cron: "0 */6 * * *"
+    workflow_dispatch:
+
+permissions:
+    contents: write
+
+jobs:
+    generate:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v3
+
+            - name: Generate snake animation
+              uses: Platane/snk@v3
+              with:
+                  github_user_name: PiragashSelvaratnam
+                  outputs: |
+                      output/github-contribution-grid-snake.svg
+                      output/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+            - name: Push to output branch
+              uses: peaceiris/actions-gh-pages@v3
+              if: always()
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: ./output
+                  cname: false
