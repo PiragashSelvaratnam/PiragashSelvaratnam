@@ -90,9 +90,8 @@
 
 <div align="center">
   
-  <!-- GitHub Stats with PRs, Commits, Issues, etc. -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiragashSelvaratnam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=fff&custom_title=📈+GitHub+Statistics" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiragashSelvaratnam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&custom_title=💻+Most+Used+Languages" alt="Top Languages" />
+  <!-- Snake Animation - Continuously looping contribution graph -->
+  <img src="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
   
 </div>
 
