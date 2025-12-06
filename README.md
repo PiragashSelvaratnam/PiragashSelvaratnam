@@ -86,26 +86,41 @@
 
 </div>
 
-## 📊 GitHub Activity & Stats
+## 🎮 GitHub Activity & Stats (Game Mode)
 
 <div align="center">
   
-  <!-- Snake Animation - Continuously looping contribution graph -->
-  <img src="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
+  <h3>🐍 Contribution Snake Game - Eat Your Commits! 🎯</h3>
   
-</div>
-
-<div align="center">
+  <!-- Snake Animation Game - Continuously looping contribution graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg" alt="Snake Game - Eating contribution graph" />
+  </picture>
   
-  <!-- Contribution Activity Graph - Shows Commits, PRs, Issues -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B9D&area=true&area_color=00D9FF&custom_title=🔥+Contribution+Activity+(Commits,+PRs,+Issues)&radius=25&height=450&animated=true" alt="Contribution Activity Graph" />
+  <br/><br/>
   
-</div>
-
-<div align="center">
+  <!-- Game Stats Dashboard -->
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiragashSelvaratnam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=fff&custom_title=🎮+Game+Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Game Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiragashSelvaratnam&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&custom_title=⚔️+Skills+Unlocked" alt="Skills" />
+      </td>
+    </tr>
+  </table>
   
-  <!-- GitHub Streak - Shows contribution streak -->
-  <img src="https://streak-stats.demolab.com/?user=PiragashSelvaratnam&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" />
+  <br/>
+  
+  <!-- Game Activity Graph - Mission Progress -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B9D&area=true&area_color=00D9FF&custom_title=🎯+Mission+Progress+(Commits,+PRs,+Issues)&radius=25&height=450&animated=true" alt="Game Activity Graph" />
+  
+  <br/><br/>
+  
+  <!-- Game Streak - Achievement System -->
+  <img src="https://streak-stats.demolab.com/?user=PiragashSelvaratnam&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&custom_title=🔥+Streak+Achievement" alt="Game Streak" />
   
 </div>
 
