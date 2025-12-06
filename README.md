@@ -109,9 +109,7 @@
 ## 🐍 Contribution Snake Game
 
 <div align="center">
-  
-  <h3>🎮 Play the Snake Game - Eat Your Commits! 🎯</h3>
-  
+    
   <!-- Snake Animation Game - Continuously looping contribution graph -->
   ![Snake animation](https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg)
   
