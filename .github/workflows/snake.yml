@@ -1,40 +1,32 @@
 name: Generate Snake Animation
 
 on:
-    schedule:
-        # Runs every 6 hours
-        - cron: "0 */6 * * *"
-    workflow_dispatch:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
-    contents: write
+  contents: write
 
 jobs:
-    generate:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v3
-              with:
-                  token: ${{ secrets.GITHUB_TOKEN }}
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-            - name: Create output directory
-              run: mkdir -p output
+      - name: Generate snake
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: PiragashSelvaratnam
+          gif_out_path: output/github-contribution-grid-snake.gif
+          svg_out_path: output/github-contribution-grid-snake.svg
 
-            - name: Generate snake animation
-              uses: Platane/snk@v3
-              with:
-                  github_user_name: PiragashSelvaratnam
-                  outputs: |
-                      output/github-contribution-grid-snake.svg
-                      output/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-            - name: Commit and push
-              run: |
-                  git config --local user.email "action@github.com"
-                  git config --local user.name "GitHub Action"
-                  git add output/*.svg
-                  if [ -n "$(git status --porcelain)" ]; then
-                    git commit -m "Generate snake animation [skip ci]"
-                    git push
-                  fi
+      - name: Commit and push
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/*.svg output/*.gif
+          git diff --staged --quiet || (git commit -m "Generate snake animation" && git push)

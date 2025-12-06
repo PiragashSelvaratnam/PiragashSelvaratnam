@@ -100,10 +100,7 @@
 <div align="center">
   
   <!-- Snake Animation - Displays directly on page, continuously looping, no click required -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
   
 </div>
 
