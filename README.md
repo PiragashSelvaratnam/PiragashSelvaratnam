@@ -142,7 +142,6 @@
 - 🌱 Learning new technologies and best practices
 - 👯 Looking to collaborate on innovative open-source projects
 - 🤔 Open to help with web development, problem-solving, and more
-- 💬 Ask me about full-stack development, coding, or tech in general
 
 ## ⚡ Fun Facts
 
