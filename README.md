@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Piragash+Selvaratnam!" />
-</div>
-
-<div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Problem+Solver+🔧" />
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=100&duration=3000&pause=1000&color=00D9FF&lines=Hi+there,+👋;I+am+PIRAGASH+✨;I+am+a+Full+Stack;and+React+Native+Mobile+Developer+💻" />
+  
 </div>
 
 ## 🌟 About Me
