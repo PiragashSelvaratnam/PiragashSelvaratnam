@@ -101,9 +101,8 @@
   
   <!-- Snake Animation - Displays directly on page, continuously looping, no click required -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/gh-pages/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/gh-pages/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/gh-pages/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
   </picture>
   
 </div>

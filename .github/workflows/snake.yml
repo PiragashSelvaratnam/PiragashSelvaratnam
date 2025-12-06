@@ -15,6 +15,11 @@ jobs:
         steps:
             - name: Checkout repository
               uses: actions/checkout@v3
+              with:
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Create output directory
+              run: mkdir -p output
 
             - name: Generate snake animation
               uses: Platane/snk@v3
@@ -24,10 +29,12 @@ jobs:
                       output/github-contribution-grid-snake.svg
                       output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-            - name: Push to output branch
-              uses: peaceiris/actions-gh-pages@v3
-              if: always()
-              with:
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
-                  publish_dir: ./output
-                  cname: false
+            - name: Commit and push
+              run: |
+                  git config --local user.email "action@github.com"
+                  git config --local user.name "GitHub Action"
+                  git add output/*.svg
+                  if [ -n "$(git status --porcelain)" ]; then
+                    git commit -m "Generate snake animation [skip ci]"
+                    git push
+                  fi
