@@ -86,116 +86,12 @@
 
 </div>
 
-## 📊 GitHub Stats & Analytics
+## 📊 GitHub Activity
 
 <div align="center">
   
-  <!-- Stats Cards with Enhanced Animation -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PiragashSelvaratnam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&animate=true&custom_title=My%20GitHub%20Statistics"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiragashSelvaratnam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&custom_title=Most%20Used%20Languages"/>
-
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Streak with Custom Theme and Animation -->
-  <img src="https://streak-stats.demolab.com/?user=PiragashSelvaratnam&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&animations=true" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Advanced Activity Graph with Multiple Themes (Loops through different visualizations) -->
-  <h3>🔥 Contribution Activity</h3>
-  
-  <!-- Primary Activity Graph with Enhanced Animation -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B9D&area=true&area_color=00D9FF&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
-  
-</div>
-
-<!-- Advanced Graph Animations Section -->
-<div align="center">
-  
-  <h3>📈 3D & Advanced Visualizations</h3>
-  
-  <!-- 3D Contribution Graph (Rotating/Animated) -->
-  <img src="https://github-readme-3d-profile.vercel.app/profile?username=PiragashSelvaratnam&theme=dracula&dimensions=200&margin-w=15&margin-h=15" alt="3D Contribution Graph" />
-  
-  <br/><br/>
-  
-  <!-- Animated Language Stats Card with Multiple Views -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PiragashSelvaratnam&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=00D9FF&text_color=fff&custom_title=Development%20Overview&rank_icon=github" alt="GitHub Stats" />
-  
-</div>
-
-<!-- Advanced Looping Graph Animations -->
-<div align="center">
-  
-  <h3>🎯 Dynamic Activity Visualizations</h3>
-  
-  <!-- Contribution Grid with Animation -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=PiragashSelvaratnam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-  
-  <br/><br/>
-  
-  <!-- Isometric Contribution Calendar -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiragashSelvaratnam&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <!-- Multi-line Activity Graph with Enhanced Animation -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B9D&area=true&area_color=00D9FF&custom_title=Weekly%20Contribution%20Activity&radius=15" alt="Activity Graph Enhanced" />
-  
-  <br/><br/>
-  
-  <!-- Isometric Contribution Graph (3D Style) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </picture>
-  
-</div>
-
-<!-- Advanced Stats Grid with Looping Effect -->
-<div align="center">
-  
-  <h3>📊 Comprehensive Analytics</h3>
-  
-  <!-- Contribution Calendar with Heatmap -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PiragashSelvaratnam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats Detailed" />
-  
-  <br/><br/>
-  
-  <!-- Animated Contribution Calendar View -->
-  <h4>📅 Contribution Heatmap (Last Year)</h4>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=github-compact&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B9D&area=true&area_color=00D9FF&custom_title=Yearly%20Contribution%20Pattern" alt="Contribution Calendar" />
-  
-</div>
-
-<!-- Advanced Looping Animation Section -->
-<div align="center">
-  
-  <h3>🔄 Dynamic Visualizations</h3>
-  
-  <!-- Multi-view Activity Dashboard -->
-  <table>
-    <tr>
-      <!-- Column 1: Activity Timeline -->
-      <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=minimal&hide_border=true&bg_color=0D1117&color=00FF88&line=00FF88&point=00D9FF&area=true&area_color=00FF88" alt="Activity Timeline" />
-      </td>
-      <!-- Column 2: Contribution Stats -->
-      <td width="50%">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=00D9FF&area=true&area_color=FF6B9D" alt="Contribution Stats" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <!-- Full-width Enhanced Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B9D&area=true&area_color=00D9FF&custom_title=Real-time%20Development%20Activity&radius=20&height=400" alt="Full Activity Graph" />
+  <!-- Single Advanced Animated Activity Graph - Updates in Real-Time -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B9D&area=true&area_color=00D9FF&custom_title=🔥+Real-time+Development+Activity&radius=25&height=450&animated=true" alt="Animated Activity Graph" />
   
 </div>
 
@@ -211,13 +107,9 @@
 
 <div align="center">
   
-  <!-- Social Links with Hover Effects -->
-  <a href="https://www.linkedin.com/in/selvaratnam-piragash-856a891b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:contactpiragash@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <!-- Social Links -->
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   
   <!-- Animated Social Icons -->
   <br/><br/>
@@ -253,17 +145,5 @@
   
   <!-- Animated Footer Text -->
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Feel+free+to+check+out+my+repositories;and+reach+out+for+collaborations!+🚀" />
-  
-  <!-- Animated Snake Contribution Graph (Loops continuously) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation eating contribution graph" src="https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg" />
-  </picture>
-  
-  <br/>
-  
-  <!-- Additional Animated Elements -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc9558dcb1/bottom_header.svg" alt="Decorative SVG" />
   
 </div>
