@@ -23,12 +23,12 @@ I'm a full-stack and mobile developer passionate about turning real customer cha
 
 ## Featured Projects
 
-| Project | Platform | What it solves |
+<!-- | Project | Platform | What it solves |
 |---------|----------|----------------|
 | [Delivera](https://github.com/PiragashSelvaratnam/delivera-front) | Web · Next.js | Delivery tracking & logistics management for businesses |
 | [Delivera Mobile](https://github.com/PiragashSelvaratnam/delivera-mobile) | iOS & Android · Expo | On-the-go delivery tracking for drivers & customers |
 | [Daily Expense Tracker](https://github.com/PiragashSelvaratnam/daily-expense-tracker) | iOS & Android · Expo | Personal finance management with spending insights |
-| [piragash.me](https://github.com/PiragashSelvaratnam/piragash-me) | Web · Next.js | Personal portfolio & project showcase |
+| [piragash.me](https://github.com/PiragashSelvaratnam/piragash-me) | Web · Next.js | Personal portfolio & project showcase | -->
 
 ---
 
