@@ -84,34 +84,9 @@
 
 </div>
 
-## 🎮 GitHub Activity & Stats
 
-<div align="center">
-  
-  <!-- GitHub Stats - Shows PRs, Commits, Issues, Reviews, etc. -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiragashSelvaratnam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=fff&custom_title=📊+GitHub+Statistics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiragashSelvaratnam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff&custom_title=💻+Most+Used+Languages" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <!-- GitHub Streak - Shows contribution streak -->
-  <img src="https://streak-stats.demolab.com/?user=PiragashSelvaratnam&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <!-- Activity Graph - Shows Commits, PRs, Issues over time -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiragashSelvaratnam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B9D&area=true&area_color=00D9FF&custom_title=🎯+Contribution+Activity+(Commits,+PRs,+Issues)&radius=25&height=450&animated=true" alt="Activity Graph" />
-  
-</div>
 
-## 🐍 Contribution Snake Game
 
-<div align="center">
-    
-  <!-- Snake Animation Game - Continuously looping contribution graph -->
-  ![Snake animation](https://raw.githubusercontent.com/PiragashSelvaratnam/PiragashSelvaratnam/output/github-contribution-grid-snake.svg)
-  
-</div>
 
 ## 🔥 GitHub Trophies
 
