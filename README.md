@@ -68,7 +68,7 @@ I'm a full-stack and mobile developer passionate about turning real customer cha
 
 ## Let's Connect
 
-Have a project in mind or want to collaborate? I'm open to freelance work, full-time opportunities, and interesting open-source projects.
+want to collaborate? interesting open-source projects.
 
 <p>
   <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
