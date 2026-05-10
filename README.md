@@ -1,32 +1,4 @@
-<div align="center">
-  
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&duration=2500&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there,+👋;I+am+PIRAGASH+✨" />
-  </h1>
-  
-  <!-- Subtitle with Different Speed -->
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=2000&pause=1500&color=FF6B9D&center=true&vCenter=true&width=900&height=60&lines=I+am+a+Full+Stack+Developer;and+React+Native+Mobile+Developer+💻" />
-  </h2>
-  
-  <!-- Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome+to+My+Profile!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-  
-</div>
 
-<!-- Animated Tech Icons Section -->
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=25&duration=3000&pause=2000&color=00FF88&center=true&vCenter=true&width=600&lines=⚡+Building+amazing+applications;🚀+Turning+ideas+into+reality;💡+Always+learning+something+new)
-  
-</div>
-
----
-
-<!-- Animated Divider -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=65&section=header&fontSize=35&fontColor=fff&animation=twinkling" />
-</div>
 
 ## 🌟 About Me
 
