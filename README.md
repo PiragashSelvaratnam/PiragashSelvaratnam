@@ -30,9 +30,3 @@
 - 🌱 Learning new technologies and best practices
 - 🤔 Open to help with web development, problem-solving, and more
 
-## ⚡ Fun Facts
-
-- 🎮 Enjoy gaming when not coding
-- 🌍 Always eager to learn from different perspectives
-
----
