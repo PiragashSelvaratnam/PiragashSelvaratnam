@@ -1,7 +1,5 @@
-<!-- Header Section with Advanced Animations -->
 <div align="center">
   
-  <!-- Main Title with Gradient Effect -->
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=50&duration=2500&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there,+👋;I+am+PIRAGASH+✨" />
   </h1>
@@ -117,31 +115,14 @@
 
 ## 🔥 GitHub Trophies
 
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=PiragashSelvaratnam&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 
 ## 🤝 Connect With Me
 
-<div align="center">
-  
-  <!-- Social Links -->
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  
-  <!-- Animated Social Icons -->
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=PiragashSelvaratnam&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  
-</div>
 
 ## 💼 What I'm Working On
 
 - 🔭 Currently working on exciting projects that challenge my skills
 - 🌱 Learning new technologies and best practices
-- 👯 Looking to collaborate on innovative open-source projects
 - 🤔 Open to help with web development, problem-solving, and more
 
 ## ⚡ Fun Facts
@@ -150,20 +131,3 @@
 - 🌍 Always eager to learn from different perspectives
 
 ---
-
-<!-- Footer with Animated Divider -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=65&section=footer&fontSize=35&fontColor=fff&animation=twinkling" />
-</div>
-
-<div align="center">
-  
-  <!-- Multiple Visitor Counters for Effect -->
-  <img src="https://profile-counter.glitch.me/PiragashSelvaratnam/count.svg" alt="Visitor Count" />
-  
-  <br/>
-  
-  <!-- Animated Footer Text -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Feel+free+to+check+out+my+repositories;and+reach+out+for+collaborations!+🚀" />
-  
-</div>
