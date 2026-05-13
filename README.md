@@ -71,9 +71,9 @@ I'm a full-stack and mobile developer passionate about turning real customer cha
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiragashSelvaratnam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&theme=transparent&bg_color=00000000&disable_animations=true" height="150" alt="GitHub Stats"/>
+  <img src="https://YOUR_VERCEL_DOMAIN/api?username=PiragashSelvaratnam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&theme=transparent&bg_color=00000000" height="150" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiragashSelvaratnam&layout=compact&hide_border=true&langs_count=6&theme=transparent&bg_color=00000000&disable_animations=true" height="150" alt="Top Languages"/>
+  <img src="https://YOUR_VERCEL_DOMAIN/api/top-langs/?username=PiragashSelvaratnam&layout=compact&hide_border=true&langs_count=6&theme=transparent&bg_color=00000000" height="150" alt="Top Languages"/>
 </p>
 
 ---
