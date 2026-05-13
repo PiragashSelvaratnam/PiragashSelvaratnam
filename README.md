@@ -71,9 +71,13 @@ I'm a full-stack and mobile developer passionate about turning real customer cha
 ## GitHub Stats
 
 <p align="center">
-  <img src="assets/github-stats.svg" height="150" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="assets/github-langs.svg" height="150" alt="Top Languages"/>
+  <img src="assets/github-calendar.svg" width="96%" alt="Contribution Calendar" />
+</p>
+
+<p align="center">
+  <img src="assets/github-stats.svg" width="47%" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="assets/github-langs.svg" width="47%" alt="Top Languages" />
 </p>
 
 ---

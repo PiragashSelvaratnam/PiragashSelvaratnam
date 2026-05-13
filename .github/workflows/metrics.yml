@@ -12,8 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - name: Generate stats
+      - name: Stats
         uses: lowlighter/metrics@latest
         with:
           filename: assets/github-stats.svg
@@ -22,9 +23,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           config_timezone: UTC
-          config_display: large
+          config_padding: 10
 
-      - name: Generate top languages
+      - name: Languages
         uses: lowlighter/metrics@latest
         with:
           filename: assets/github-langs.svg
@@ -33,5 +34,19 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_limit: 6
+          plugin_languages_details: percentage
           plugin_languages_sections: most-used
           config_timezone: UTC
+          config_padding: 10
+
+      - name: Contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-calendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: PiragashSelvaratnam
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: UTC
+          config_padding: 10
