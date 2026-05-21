@@ -83,5 +83,5 @@ want to collaborate? interesting open-source projects.
   &nbsp;
   <a href="mailto:contactpiragash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   &nbsp;
-  <a href="www.linkedin.com/in/selvaratnam-piragash-856a891b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/selvaratnam-piragash-856a891b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
