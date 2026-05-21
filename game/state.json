@@ -1,0 +1,33 @@
+{
+  "board_size": 9,
+  "mine_count": 10,
+  "mines": [],
+  "cell_states": [
+    ["unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed"],
+    ["unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed"],
+    ["unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed"],
+    ["unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed"],
+    ["unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed"],
+    ["unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed"],
+    ["unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed"],
+    ["unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed"],
+    ["unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed", "unrevealed"]
+  ],
+  "adj_counts": [
+    [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ],
+  "game_status": "waiting_first_click",
+  "revealed_count": 0,
+  "stats": {
+    "games_won": 0,
+    "games_lost": 0
+  }
+}
