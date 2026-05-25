@@ -89,9 +89,6 @@ I'm a full-stack and mobile developer passionate about turning real customer cha
 ---
 
 ## Let's Connect
-
-want to collaborate? interesting open-source projects.
-
 <p>
   <a href="https://piragash.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   &nbsp;
